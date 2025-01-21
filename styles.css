@@ -1,5 +1,9 @@
 h1 {
     color: red;
+    font-size: x-large;
+}
+p {
+    color: blueviolet;
     font-size: larger;
 }
 
