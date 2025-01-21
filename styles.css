@@ -2,12 +2,22 @@ h1 {
     color: red;
     font-size: x-large;
 }
+
+h2 {
+    color: red;
+    font-size: x-large;
+}
+
 p {
-    color: blueviolet;
+    color: red;
     font-size: larger;
 }
 
+ul {
+    color: red;
+    font-size: x-large;
+}
+
 body {
-    background-color: antiquewhite;
     background-image: url('https://www.fujitv.com/wp-content/uploads/2021/10/FHWvU5maUAobOAO.jpg');
 }
